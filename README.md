@@ -62,7 +62,7 @@ Quantum phenomena turned into sound and image. Instruments named *Gabor Cloud* a
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 
 **To invoke it**
 
@@ -96,7 +96,7 @@ why language models compress the world the way they do.
 ## ⟨ where to find me ⟩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-calderon-digital/)
-[![Web](https://img.shields.io/badge/nicolascalderon.digital-9D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nicolascalderon.digital/)
+
 [![3Pi](https://img.shields.io/badge/3Pi-111111?style=for-the-badge&logoColor=white)](https://3pi.co)
 [![Email](https://img.shields.io/badge/nicogarazzo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicogarazzo@gmail.com)
 
