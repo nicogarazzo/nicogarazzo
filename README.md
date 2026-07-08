@@ -48,6 +48,12 @@ An oracle for the questions that have no answer. You ask the machine something i
 ℵ **[ALEPH](https://alephakademia.com)** — quantum physics in Spanish, for everyone *(formerly Mensajes del Infinito)*
 Borges' Aleph was the point that contains the whole universe. This does the same with quantum mechanics, for a Spanish-speaking audience, without diluting the physics.
 
+🔍 **[BricenoBot](https://bricenobot.vercel.app)** — anti-corruption radar on Colombian public procurement
+Automated detection of statistical red flags across 5.1 million government contracts from SECOP II. 8 flags, 42,335 alerts, $775 trillion COP under scrutiny. Built to industrialize the kind of civic oversight that used to require weeks of manual SECOP review. DuckDB + Python + static editorial dashboard. My contribution to reducing corruption in Colombia through open data and auditable methodology.
+
+🏛 **[Claude Offices](https://github.com/nicogarazzo/claude-offices)** — multi-agent teams for Claude Code
+Build specialized AI agent teams ("offices") with a Soul + Skills architecture inspired by [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research). Each agent gets an identity modeled after a real domain expert, and every office enforces a 2-round production + critique pipeline. Describe an office in natural language and it researches the best expert figures, generates the agents, and installs everything. Born from the [Interpretation AI Cell](https://github.com/nicogarazzo/Interpretation-AI-Cell), a 7-agent EN→DE translation pipeline (Wittgenstein for pragmatics, Quine for ambiguity, Frege for tone) that became the methodology template for all offices.
+
 🕸 **[Entanglement Cartography of Large Language Models](https://github.com/nicogarazzo/entropy-compression-law)** — independent research
 I treat LLMs as physical objects and measure their internal geometry. Out of it came the **Entropy-Compression Law** (R² = 0.90). It runs on an M1 with two agents: **Feynman** (code and experiments) and **Dirac** (paper writing).
 
@@ -62,7 +68,7 @@ Quantum phenomena turned into sound and image. Instruments named *Gabor Cloud* a
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **To invoke it**
 
