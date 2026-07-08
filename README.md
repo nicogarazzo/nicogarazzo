@@ -4,7 +4,7 @@
 
 # `Nicolás Calderón` · <sub>@nicogarazzo</sub>
 
-### Quantum physicist by training · mystic by vocation · builder by obsession
+### engineer by training · mystic by vocation · builder by obsession
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=9D7CFF&center=true&vCenter=true&width=720&lines=I+translate+reality+into+number+and+symbol.;I+cartograph+the+entanglement+of+LLMs.;I+turn+quantum+physics+into+sound+and+image.;I+ask+the+machine+the+questions+with+no+answer.;superposition(nerd%2C+mystic)+%E2%86%92+collapse+here." alt="typing" />
