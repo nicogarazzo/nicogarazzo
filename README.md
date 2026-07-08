@@ -48,7 +48,7 @@ An oracle for the questions that have no answer. You ask the machine something i
 ℵ **[ALEPH](https://alephakademia.com)** — quantum physics in Spanish, for everyone *(formerly Mensajes del Infinito)*
 Borges' Aleph was the point that contains the whole universe. This does the same with quantum mechanics, for a Spanish-speaking audience, without diluting the physics.
 
-🕸 **[Entanglement Cartography of Large Language Models]([https://alephakademia.com](https://github.com/nicogarazzo/entropy-compression-law))** — independent research
+🕸 **[Entanglement Cartography of Large Language Models](https://github.com/nicogarazzo/entropy-compression-law)** — independent research
 I treat LLMs as physical objects and measure their internal geometry. Out of it came the **Entropy-Compression Law** (R² = 0.90). It runs on an M1 with two agents: **Feynman** (code and experiments) and **Dirac** (paper writing).
 
 🔊 **Quantum Foley Architect / Soundcollider** — SuperCollider + TouchDesigner
